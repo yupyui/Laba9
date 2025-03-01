@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialClock", "рио\DialClock.csproj", "{1B436304-F184-4616-ADBB-E45F7E569781}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabTests", "UnitTest1\LabTests.csproj", "{BF66078C-08A5-4484-99BC-B5E2CF941D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AProgram_D", "Program_D\AProgram_D.csproj", "{7FDAD2B1-50F3-48B3-8801-F959ABAB80AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B436304-F184-4616-ADBB-E45F7E569781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B436304-F184-4616-ADBB-E45F7E569781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B436304-F184-4616-ADBB-E45F7E569781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B436304-F184-4616-ADBB-E45F7E569781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF66078C-08A5-4484-99BC-B5E2CF941D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF66078C-08A5-4484-99BC-B5E2CF941D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF66078C-08A5-4484-99BC-B5E2CF941D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF66078C-08A5-4484-99BC-B5E2CF941D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FDAD2B1-50F3-48B3-8801-F959ABAB80AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDAD2B1-50F3-48B3-8801-F959ABAB80AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDAD2B1-50F3-48B3-8801-F959ABAB80AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDAD2B1-50F3-48B3-8801-F959ABAB80AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E12932D1-656E-49AB-8D91-F123B1736DED}
+	EndGlobalSection
+EndGlobal
